@@ -1,0 +1,60 @@
+***HOW TO BECOME ENGINEER WITHOUT TAKING ENGINEER MAJOR!!
+  Becoming a software engineer without a computer science (CS) major is entirely possible.
+     -for that first you have to build a strong foundation
+      1)learn programming basics
+      programming is the core skill of software engineer . So start learning beginner 
+      friendly languages which is python,javascript,ruby.
+      you can learn it from online platforms or refer to beginner friendly books
+      
+      2)practice regularly  
+      start to create simple projects and solve coding problems daily 
+      first focus on small ana manageable problems and gradually increase the complexity
+
+     3)learn cs fundamnetals
+        Data Structures: Arrays, linked lists, stacks, queues, trees, graphs, etc.
+        Data Structures: Arrays, linked lists, stacks, queues, trees, graphs, etc.
+        Algorithms: Sorting (bubble sort, merge sort), searching (binary search), and     optimization.
+        Databases: Learn how to store and retrieve data using SQL or NoSQL databases.
+        Object-Oriented Programming (OOP): Understand concepts like classes, objects,                        inheritance, and polymorphism.
+     Version Control: Use Git and GitHub to manage code versions and collaborate with others.
+     4)build projects
+        employers and clients value practical experience over theoretical knowledge
+        so first start building small projects like weather app using API or portfolio website and slowly movw to bigger projects like e-commerce websites.
+use GitHub,heroku or netlify to showcase your projects online.
+
+    5)consider bootcamps or certifications
+       Bootcamps and certifications provide a structured learning path and can make your resume stand out.
+    6)contribute to opensource
+     " helps you gain experience,improve your skills and build a network in the developer community
+   find projects in GitHub that intersts you and try to debug it or improve the documentation or add minor features.
+    7)network and seek mentorship
+      Networking can lead to job opportunities, collaborations, and valuable guidance.
+      join developer communities,attend events like tech meetups and hackathons     
+   8)apply for internships    
+ Real-world experience is crucial to understanding industry workflows and expectations.    
+Many companies offer internships to non-degree holders. Look for roles labeled as "entry-level" or "junior developer        
+   9)prepare for interviews
+      Software engineering interviews often test both technical skills and problem-solving abilities.  
+         for coding interviews, practice coding questions and understand time complexity for your solutions
+and for behavioral questions prepare answers to common questions like self introduction or
+    "Describe a challenging project and how you handled it."      
+  10)showcase your skills
+A strong online presence can make you stand out to recruiters.
+Portfolio Website:
+Create a simple website to display your projects, skills, and contact information.
+github:Keep your repositories organized and well-documented.
+Include descriptive README files for your projects.
+LinkedIn:
+Update your profile with skills, projects, and certifications.
+Write posts or share insights about your learning journey.
+Blogs:
+Share coding tutorials or your experiences. Platforms like Medium or Dev.to are great for reaching an audience.    
+                                                                                                                                       By following these steps systematically, you can carve a path to becoming a successful software engineer without a formal engineering degree. The key is consistency, perseverance, and a passion for learning!
+
+
+
+
+
+
+
+                                                               
